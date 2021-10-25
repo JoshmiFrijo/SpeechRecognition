@@ -1,2 +1,4 @@
 # SpeechRecognition
-Speech recognition system- Extracted features are MFCCs and its derivatives, algorithm used is LVQ
+A speech recognition system using primitive technologies(without using AI)
+MFCCs, delta MFCCs, delta-delta MFCCs and rms-value of speech signals are extracted and used as features
+LVQ algorithm is used for classification problem
